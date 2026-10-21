@@ -505,8 +505,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -420.0,
-            "y": 160.0,
+            "x": -720.0,
+            "y": 320.0,
             "width": 0.0,
             "height": 0.0
         }
@@ -564,7 +564,7 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1300.0,
+            "x": -1220.0,
             "y": -80.0,
             "width": 0.0,
             "height": 0.0
@@ -620,7 +620,7 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1300.0,
+            "x": -1220.0,
             "y": 40.0,
             "width": 0.0,
             "height": 0.0
@@ -635,7 +635,7 @@
     "m_Precision": 0,
     "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
-    "m_PreviewMode": 0,
+    "m_PreviewMode": 2,
     "m_CustomColors": {
         "m_SerializableColors": []
     },
@@ -720,7 +720,7 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1040.0,
+            "x": -960.0,
             "y": -40.0,
             "width": 0.0,
             "height": 0.0
@@ -903,7 +903,7 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -200.0,
+            "x": -480.0,
             "y": 40.0,
             "width": 0.0,
             "height": 0.0
@@ -1009,7 +1009,7 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -760.0,
+            "x": -720.0,
             "y": -40.0,
             "width": 0.0,
             "height": 0.0
